@@ -20,7 +20,7 @@ In this project we were given handwritten ‘and’ samples of images. The proje
 </ol>
 
 ### Note:
-Refer the 'Final Report.pdf' document for a detailed explanation.<br>
+**Refer the 'Final Report.pdf' document for a detailed explanation.**<br>
 Task2 folder contains the .ipynb file for the hybrid Bayesian model.<br>
 Task3 folder contains the .ipynb file for the Siamese Combitional Neural Network model.<br>
 Task4 folder contains the .ipynb file for the hybrid model that consists of an autoencoder combined with 15 CNNs. 
